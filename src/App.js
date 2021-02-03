@@ -7,7 +7,6 @@ import {
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Redirecting from "./components/Redirecting";
-import './App.css';
 
 import Home from "./pages/Home";
 import NotFound from "./pages/404";
