@@ -1,6 +1,3 @@
-import React, { useState } from "react";
-import { useHistory } from "react-router-dom";
-
 const NotFound = () => {
   return (
     <div className="ui center aligned container">
