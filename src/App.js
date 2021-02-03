@@ -4,7 +4,7 @@ import {
   Switch
 } from "react-router-dom";
 
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Redirecting from "./components/Redirecting";
 import './App.css';
