@@ -1,5 +1,7 @@
 import React from "react";
+import { NavDropdown } from 'react-bootstrap';
 import { Navbar } from 'react-bootstrap';
+import { Nav } from 'react-bootstrap';
 
 const NavBar = props => {
   return (
@@ -19,10 +21,6 @@ const NavBar = props => {
             <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
           </NavDropdown>
         </Nav>
-        <Form inline>
-          <FormControl type="text" placeholder="Search" className="mr-sm-2" />
-          <Button variant="outline-success">Search</Button>
-        </Form>
       </Navbar.Collapse>
     </Navbar>
   </>
