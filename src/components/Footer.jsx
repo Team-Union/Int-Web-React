@@ -27,10 +27,10 @@ const Footer = () => {
         </div>
         
     </div>
-    <h1 className="ui header">Team Int</h1>
-        <h4 className="ui header" style={{marginTop: '-15px'}}>Team Int</h4>
+    <h1 className="ui header">Team Endint</h1>
+        <h4 className="ui header" style={{marginTop: '-15px'}}>Team Endint</h4>
         <p>대표: 인트</p>
-        <p>Copyright 2021 Team Int, All rights reserved.</p>
+        <p>Copyright 2021 Team Endint, All rights reserved.</p>
     <div className="ui horizontal list">
           <a href='/tos' className="item">이용약관</a> <a href='/privacy' className="item">개인정보취급방침</a>
         </div>
